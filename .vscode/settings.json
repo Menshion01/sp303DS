@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "text.h": "c",
+        "main.h": "c",
+        "ios": "c",
+        "playback.h": "c",
+        "mp3.h": "c"
+    }
+}
